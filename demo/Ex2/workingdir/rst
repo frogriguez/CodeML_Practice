@@ -1,0 +1,7 @@
+Supplemental results for CODEML (seqf: ..\seqfile.nuc  treef: ..\tree.tree)
+
+
+pairwise comparison (Goldman & Yang 1994)
+seq seq        N       S       dN       dS     dN/dS   Paras.
+  2   1    447.1    152.9   0.0213   0.0776   0.2742   0.1068   0.2742  -927.178
+
