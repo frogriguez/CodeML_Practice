@@ -1,0 +1,17 @@
+seqfile = ..\seqfile.nuc
+outfile = ..\M3.mlc
+treefile = ..\treem3.nwk
+NSsites = 3
+seqtype = 1
+omega = 5
+fix_omega = 0
+fix_blength = 2
+ncatG = 3
+noisy = 9
+runmode = 0
+verbose = 1
+model = 0
+fix_kappa = 1
+kappa = 4.89033
+CodonFreq = 2
+icode = 0

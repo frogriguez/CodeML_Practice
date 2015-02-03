@@ -1,0 +1,15 @@
+seqfile = ..\seqfile.nuc
+outfile = ..\h1.mlc
+treefile = ..\treeh1.nwk
+seqtype = 1
+fix_kappa = 0
+NSsites = 0
+kappa = 2
+noisy = 9
+icode = 0
+verbose = 1
+model = 2
+fix_omega = 0
+omega = 0.2
+runmode = 0
+CodonFreq = 2
